@@ -1,6 +1,6 @@
 # Project RAI: ML Moral Judgment & Liability
 **Responsible AI, Law, Ethics & Society | Team 4**
-*Technion – Israel Institute of Technology*
+*Technion – Israel Institute of Technology & Tel Aviv University*
 
 ---
 
